@@ -1,4 +1,5 @@
-Hello 👋, I am  Ravi Prakasha. I am currently pursuing my Master's in Computer Science at the University of Texas at Arlington.
+                                         Hello 👋, I am  Ravi Prakasha. 
+I am currently pursuing my Master's in Computer Science at the University of Texas at Arlington.
 
 
 
