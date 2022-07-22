@@ -1,8 +1,8 @@
                                                    Hello 👋, I am  Ravi Prakasha. 
     
-             :man_technologist: I am currently pursuing my Master's in Computer Science at the University of Texas at Arlington.
+             :man_technologist I am currently pursuing my Master's in Computer Science at the University of Texas at Arlington.
                           
-                        :brain: I’m currently learning Web Developement and Problem Solving.
+                        :brain I’m currently learning Web Developement and Problem Solving.
                           
                
                
