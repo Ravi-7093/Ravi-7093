@@ -15,7 +15,7 @@
                           
               🧠 I’m currently learning Web Developement and Problem Solving.
                       
-              🌱 I am trying to the better version of myself.
+              🌱 I am trying to be the better version of myself.
   
               ⚡ In my free time, I solve problems on Leetcode and watch movies.
    
