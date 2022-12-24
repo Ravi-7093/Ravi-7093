@@ -23,7 +23,7 @@
    🔥 My Stats :
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ravi-7093&theme=vue-dark)](https://git.io/streak-stats) 
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ravi-7093&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ravi-7093&bg_color=2b2727&color=4c9e86&line=4c9e74&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravi-7093)](https://github.com/anuraghazra/github-readme-stats)
 
 
